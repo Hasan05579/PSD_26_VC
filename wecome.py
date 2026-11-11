@@ -15,6 +15,7 @@ def introduction_task():
     
     print(f"The result of adding {num1} and {num2} is: {result}")
     print("next " + str(add_numbers(6, 12)))
+    print("extra")
 
 introduction_task()
 
